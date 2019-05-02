@@ -22,5 +22,8 @@ This is a simple click game built with create-react-app.
     * The run npm install in the directory you cloned the repo to in order to get all dependencies
     * Run npm start and the app should be running via localhost
 
+    ![Clicky Game](react-click-game/public/images/clicky.png)
+
 ## Link to deployed app: [https://peterjast.github.io/react-click-game/](https://peterjast.github.io/react-click-game/)
+
 
